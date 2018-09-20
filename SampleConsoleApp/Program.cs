@@ -6,7 +6,7 @@ namespace SampleConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from v1.0");
+            Console.WriteLine("Hello World from v2.0");
         }
     }
 }
